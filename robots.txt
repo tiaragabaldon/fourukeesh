@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaeheecoh.preview-dai.com/sitemap.xml
